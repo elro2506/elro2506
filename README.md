@@ -1,5 +1,9 @@
-## Hej och välkommen till min Github!
+# Hej och välkommen till min GitHub!
 
-# Elin här, studerar första året på webbutvecklingsprogrammet på Mittuniversitetet. En av kurserna jag studerar är **Javascript**.
+## Elin här  
+Studerar första året på **Webbutvecklingsprogrammet** på Mittuniversitetet.  
+Just nu läser jag en kurs i **JavaScript**.  
+
+---
 
 Ha en fin dag!
